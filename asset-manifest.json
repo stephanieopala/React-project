@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stephanieopala/React-project.git/static/css/main.e6e9dd9d.chunk.css",
+    "main.js": "/stephanieopala/React-project.git/static/js/main.88a6de61.chunk.js",
+    "main.js.map": "/stephanieopala/React-project.git/static/js/main.88a6de61.chunk.js.map",
+    "runtime-main.js": "/stephanieopala/React-project.git/static/js/runtime-main.57708ff7.js",
+    "runtime-main.js.map": "/stephanieopala/React-project.git/static/js/runtime-main.57708ff7.js.map",
+    "static/js/2.df8eb0e1.chunk.js": "/stephanieopala/React-project.git/static/js/2.df8eb0e1.chunk.js",
+    "static/js/2.df8eb0e1.chunk.js.map": "/stephanieopala/React-project.git/static/js/2.df8eb0e1.chunk.js.map",
+    "static/js/3.01ca8992.chunk.js": "/stephanieopala/React-project.git/static/js/3.01ca8992.chunk.js",
+    "static/js/3.01ca8992.chunk.js.map": "/stephanieopala/React-project.git/static/js/3.01ca8992.chunk.js.map",
+    "index.html": "/stephanieopala/React-project.git/index.html",
+    "static/css/main.e6e9dd9d.chunk.css.map": "/stephanieopala/React-project.git/static/css/main.e6e9dd9d.chunk.css.map",
+    "static/js/2.df8eb0e1.chunk.js.LICENSE.txt": "/stephanieopala/React-project.git/static/js/2.df8eb0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57708ff7.js",
+    "static/js/2.df8eb0e1.chunk.js",
+    "static/css/main.e6e9dd9d.chunk.css",
+    "static/js/main.88a6de61.chunk.js"
+  ]
+}
